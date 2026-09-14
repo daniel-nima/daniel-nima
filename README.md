@@ -42,15 +42,6 @@ Me enfoco en **convertir datos en decisiones**: análisis, reportes, Business In
 
 ---
 
-### 📈 Mis estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daniel-nima&show_icons=true&count_private=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-nima&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ### 📜 Certificaciones
 
 - **Python for Everybody** — University of Michigan / Coursera
