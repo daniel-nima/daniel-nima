@@ -20,13 +20,11 @@ Me enfoco en **convertir datos en decisiones**: análisis, reportes, Business In
 
 ### 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" alt="stack" />
+</p>
+
+**Análisis & BI:** Python (Pandas) · SQL · Power BI · Excel
 
 ---
 
@@ -34,11 +32,11 @@ Me enfoco en **convertir datos en decisiones**: análisis, reportes, Business In
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 📊 **Dashboard de Ventas e Inventario** | Análisis de ventas, rotación y stock con indicadores para toma de decisiones. | Power BI · SQL · Python |
+| 📊 **[Dashboard de Ventas e Inventario](https://github.com/daniel-nima/dashboard-ventas-inventario)** | Análisis de ventas, rotación y stock con indicadores para toma de decisiones. | Power BI · SQL · Python |
 | 🧾 **Conciliación de inventarios** | Detección de diferencias, duplicados y faltantes con reporte automático. | Python · SQL |
 | ⚙️ **Automatización de reportes** | Lectura, limpieza y envío automático de indicadores. | Python |
 
-> _(Los enlaces se agregan a medida que publico cada repositorio / case study.)_
+> _(Más proyectos y case studies en camino.)_
 
 ---
 
